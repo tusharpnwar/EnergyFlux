@@ -9,4 +9,3 @@ keras
 holidays
 joblib
 workalendar
-matplotlib
